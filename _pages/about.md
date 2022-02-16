@@ -18,4 +18,4 @@ Two paper under review at International journals.
 For more info
 ------
 For more information or research collaboration you can contact me at:
-abbas.qaixer@gmail.com || qaiser.cs@uet.edu.pk
+abbas.qaixer@gmail.com OR qaiser.cs@uet.edu.pk
