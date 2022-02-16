@@ -17,4 +17,7 @@ Two paper under review at International journals.
 
 For more info
 ------
-For more information or research collaboration you can contact me at abbas (dot) qaixer (at) gmail (dot) com
+For more information or research collaboration you can contact me at:
+abbas(dot)qaixer(at)gmail(dot)com 
+OR
+qaiser(dot)cs(at)uet(dot)edu(dot)pk
