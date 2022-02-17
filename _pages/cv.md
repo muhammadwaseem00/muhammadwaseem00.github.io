@@ -11,49 +11,45 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Information Technology, University of Sargodha, 2018
+* M.S. in Computer Sciece, University of Engineering and Technology Lahore, 2020
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* March 2021 - Present: Teaching Fellow
+  * University of Engineering and Technology Lahore
+  * Duties included: Teaching undergraduate courses in AI, ML and conduct labs.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Jan 2020 - Oct 2020: Research Assistant
+  * BRL, KICS, UET Lahore
+  * Duties included: Research latest deep learning methods in medical image computing and computational plant pathology. 
+
+* Aug 2019 - Oct 2019: Computer Vision Intern
+  * Wizdojo Technologies, LUMS, Lahore
+  * Duties included: Research and develop deep learning pipelines for intelligent transportation systems.
+
+* Nov 2018 - April 2020: Lecturer
+  * Government Islamia College Railway Road, Lahore.
+  * Duties included: Teaching undergraduate courses in Programming, Networks and OS.
   
+* Sep 2018 - Oct 2018: Deep Learning Intern
+  * CVML Lab, KICS, UET Lahore
+  * Duties included: Learned about deep learning and implemented deep learning methods for image classification.
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Programming (Python and C++)
+* Deep Learning
+  * Medical Image Computing
+  * Computational Plant Pathology
+* Deep Learning Frameworks (Keras, FastAI, TensorFlow, PyTorch, OpenCV)
+* Latex
+* Technical Writing
+* Web Engineering (Wordpress / HTML / CSS / Bootstrap)
+* OS (Windows, Ubuntu, Kali Linux)
   
-Talks
+Professional Services
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Reviewer
+  * [Visual Computing for Industry, Biomedicine, and Art](https://vciba.springeropen.com/)
+  * [Informatics in Medicine Unlocked](https://www.journals.elsevier.com/informatics-in-medicine-unlocked)
