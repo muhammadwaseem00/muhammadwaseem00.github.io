@@ -5,12 +5,9 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
 
-{% include base_path %}
+You can also find my articles on my [Google Scholar](https://scholar.google.com/citations?user=oAWfLsoAAAAJ&hl=en&oi=sra) profile.
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+2021
+======
+* Abbas, Qaiser, Farheen Ramzan, and Muhammad Usman Ghani. "Acral melanoma detection using dermoscopic images and convolutional neural networks." Visual computing for industry, biomedicine, and art 4.1 (2021): 1-12.
