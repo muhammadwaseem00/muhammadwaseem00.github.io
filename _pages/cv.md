@@ -7,6 +7,8 @@ redirect_from:
   - /resume
 ---
 
+<style type="text/css"> body{ font-size: 12pt; } </style> 
+
 {% include base_path %}
 
 [Donwload PDF](https://qaixerabbas.github.io/files/updated_cv.pdf)
