@@ -7,7 +7,7 @@ author_profile: true
 
 You can also find my official profile on my [UET Homepage](https://www.uet.edu.pk/faculties/facultiesinfo/facultyinfo?fac_id=1368).
 
-Sprint 2022
+Spring 2022
 ======
 * CSE-331L - Computer Networks (Lab)
   ** This course introduces the fundamental problems of computer
@@ -29,7 +29,7 @@ Fall 2021
   ** This is a basic introduction to Python programming for Data Science. The course covers basics of
   python including data types, conditional statements, loops, data structures and exception handling.
 
-Sprint 2021
+Spring 2021
 ======
 * CS-362 - Introduction to Operating Systems (Theory)
   ** This is designed to be the first undergraduate level course with the main objective of teaching
