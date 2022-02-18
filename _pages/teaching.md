@@ -12,8 +12,6 @@ author_profile: true
 </style>
 
 You can also find my official profile on my [UET Homepage](https://www.uet.edu.pk/faculties/facultiesinfo/facultyinfo?fac_id=1368).
-
-<p align="justify">
   
 Spring 2022
 ------
@@ -48,4 +46,3 @@ Spring 2021
   * This course introduces the fundamental problems of computer
   networking, from sending bits over wires to running distributed applications.
   
-</p>
