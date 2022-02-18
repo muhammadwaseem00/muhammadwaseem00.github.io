@@ -12,6 +12,7 @@ author_profile: true
 </style>
 
 You can also find my official profile on my [UET Homepage](https://www.uet.edu.pk/faculties/facultiesinfo/facultyinfo?fac_id=1368).
+
 Spring 2022
 ------
 * CSE-331L -  <font size="3">Computer Networks (Lab)</font> 
