@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Donwload PDF](https://qaixerabbas.github.io/files/resume.pdf)
+[Donwload PDF](https://qaixerabbas.github.io/files/updated_cv.pdf)
 
 Education
 ======
