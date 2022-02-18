@@ -9,7 +9,7 @@ You can also find my official profile on my [UET Homepage](https://www.uet.edu.p
 
 Spring 2022
 ======
-* CSE-331L - Computer Networks (Lab)
+* CSE-331L -  <font size="3">Computer Networks (Lab)</font> 
   * This course introduces the fundamental problems of computer
     networking, from sending bits over wires to running distributed applications.
 
