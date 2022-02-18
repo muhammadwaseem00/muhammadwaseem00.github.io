@@ -13,6 +13,8 @@ author_profile: true
 
 You can also find my official profile on my [UET Homepage](https://www.uet.edu.pk/faculties/facultiesinfo/facultyinfo?fac_id=1368).
 
+<div align="justify">
+  
 Spring 2022
 ------
 * CSE-331L -  <font size="3">Computer Networks (Lab)</font> 
@@ -45,3 +47,5 @@ Spring 2021
 * CSE-331L - Computer Networks (Lab)
   * This course introduces the fundamental problems of computer
   networking, from sending bits over wires to running distributed applications.
+  
+</div>
