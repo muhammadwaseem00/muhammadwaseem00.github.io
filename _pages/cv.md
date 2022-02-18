@@ -11,28 +11,28 @@ redirect_from:
 
 Education
 ======
-* B.S. in Information Technology, University of Sargodha, 2018
-* M.S. in Computer Sciece, University of Engineering and Technology Lahore, 2020
+* M.S in Computer Sciece, University of Engineering and Technology Lahore, 2020
+* B.S in Information Technology, University of Sargodha, 2018
 
 Work experience
 ======
-* March 2021 - Present: Teaching Fellow
+* March 2021 - Present: **Teaching Fellow**
   * University of Engineering and Technology Lahore
   * Duties included: Teaching undergraduate courses in AI, ML and conduct labs.
 
-* Jan 2020 - Oct 2020: Research Assistant
+* Jan 2020 - Oct 2020: **Research Assistant**
   * BRL, KICS, UET Lahore
   * Duties included: Research latest deep learning methods in medical image computing and computational plant pathology. 
 
-* Aug 2019 - Oct 2019: Computer Vision Intern
+* Aug 2019 - Oct 2019: **Computer Vision Intern**
   * Wizdojo Technologies, LUMS, Lahore
   * Duties included: Research and develop deep learning pipelines for intelligent transportation systems.
 
-* Nov 2018 - April 2020: Lecturer
+* Nov 2018 - April 2020: **Lecturer**
   * Government Islamia College Railway Road, Lahore.
   * Duties included: Teaching undergraduate courses in Programming, Networks and OS.
   
-* Sep 2018 - Oct 2018: Deep Learning Intern
+* Sep 2018 - Oct 2018: **Deep Learning Intern**
   * CVML Lab, KICS, UET Lahore
   * Duties included: Learned about deep learning and implemented deep learning methods for image classification.
 
