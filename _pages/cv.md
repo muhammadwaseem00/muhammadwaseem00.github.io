@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV [Download PDF](https://qaixerabbas.github.io/files/resume.pdf)"
+title: "[CV](https://qaixerabbas.github.io/files/resume.pdf)"
 permalink: /cv/
 author_profile: true
 redirect_from:
