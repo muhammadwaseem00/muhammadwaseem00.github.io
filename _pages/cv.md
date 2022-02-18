@@ -13,8 +13,10 @@ redirect_from:
 
 Education
 ======
-* M.S in Computer Sciece, University of Engineering and Technology Lahore, 2020
-* B.S in Information Technology, University of Sargodha, 2018
+* M.S in Computer Sciece
+  * University of Engineering and Technology Lahore, 2020
+* B.S in Information Technology
+  * University of Sargodha, Sargodha, 2018
 
 Work experience
 ======
