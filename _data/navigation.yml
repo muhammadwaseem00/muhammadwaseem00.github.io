@@ -4,17 +4,17 @@ main:
   - title: "Publications"
     url: /publications/
 
-#   - title: "Talks"
-#     url: /talks/    
+  - title: "Code & Data"
+    url: /code/    
 
   - title: "Teaching"
     url: /teaching/    
     
   - title: "Research"
-    url: /portfolio/ # change here
+    url: /research/ # change here
         
   - title: "Blog"
-    url: /year-archive/
+    url: /blog/
     
   - title: "CV"
     url: /cv/
