@@ -1,13 +1,41 @@
 ---
 layout: archive
-title: "Publications"
-permalink: /publications/
+title: "Teaching"
+permalink: /teaching/
 author_profile: true
 ---
 
+You can also find my official profile on my [UET Homepage](https://www.uet.edu.pk/faculties/facultiesinfo/facultyinfo?fac_id=1368).
 
-You can also find my articles on my [Google Scholar](https://scholar.google.com/citations?user=oAWfLsoAAAAJ&hl=en&oi=sra) profile.
-
-2021
+Sprint 2022
 ======
-* **Qaiser Abbas**, Farheen Ramzan, and Muhammad Usman Ghani. "Acral melanoma detection using dermoscopic images and convolutional neural networks." Visual computing for industry, biomedicine, and art 4.1 (2021): 1-12.     [PDF](https://link.springer.com/content/pdf/10.1186/s42492-021-00091-z.pdf)
+* CSE-331L - Computer Networks (Lab)
+  ** This course introduces the fundamental problems of computer
+  networking, from sending bits over wires to running distributed applications.
+
+Fall 2021
+======
+* CS-361 - Artificial Intelligence (Lab+Theory)
+  ** This is an introductory course in Artificial Intelligence. It includes introduction to A.I, 
+  Intelligent Agent, Searching, Game Playing and Basics of Machine learning.
+  
+* CS-141 - Introduction to Computing
+  ** This broad-based, entry-level course provides a general overview of the main concepts in
+  computing. Topics studied include the history and evolution of computers, central processing
+  unit, data storage, input/output devices, multimedia, operating systems, programming languages,
+  networking, data structures and File Management.
+
+* CS-101 - Introduction to Computer Programming for Data Science (Theory+Lab)
+  ** This is a basic introduction to Python programming for Data Science. The course covers basics of
+  python including data types, conditional statements, loops, data structures and exception handling.
+
+Sprint 2021
+======
+* CS-362 - Introduction to Operating Systems (Theory)
+  ** This is designed to be the first undergraduate level course with the main objective of teaching
+  students the concepts and principles that underlie the design and implementation of
+  operating system.
+
+* CSE-331L - Computer Networks (Lab)
+  ** This course introduces the fundamental problems of computer
+  networking, from sending bits over wires to running distributed applications.
