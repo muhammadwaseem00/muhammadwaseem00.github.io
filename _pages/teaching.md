@@ -15,13 +15,13 @@ author_profile: true
 You can also find my official profile on my [UET Homepage](https://www.uet.edu.pk/faculties/facultiesinfo/facultyinfo?fac_id=1368).
 
 Spring 2022
-======
+------
 * CSE-331L -  <font size="3">Computer Networks (Lab)</font> 
   * This course introduces the fundamental problems of computer
     networking, from sending bits over wires to running distributed applications.
 
 Fall 2021
-======
+------
 * CS-361 - Artificial Intelligence (Lab+Theory)
   * This is an introductory course in Artificial Intelligence. It includes introduction to A.I, 
   Intelligent Agent, Searching, Game Playing and Basics of Machine learning.
@@ -37,7 +37,7 @@ Fall 2021
   python including data types, conditional statements, loops, data structures and exception handling.
 
 Spring 2021
-======
+------
 * CS-362 - Introduction to Operating Systems (Theory)
   * This is designed to be the first undergraduate level course with the main objective of teaching
   students the concepts and principles that underlie the design and implementation of
