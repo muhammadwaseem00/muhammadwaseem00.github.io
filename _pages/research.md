@@ -12,7 +12,9 @@ redirect_from:
   body{ font-size: 12pt; } 
   table, tr, td {
     border: none;}
-  
+  .table td, .table th {
+        font-size: 12px;
+    }
 </style> 
 
 Deep Learning
