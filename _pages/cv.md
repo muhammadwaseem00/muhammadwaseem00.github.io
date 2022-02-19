@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-<style type="text/css"> body{ font-size: 12pt; } </style> 
+<style type="text/css"> body{ font-size: 12pt; width:1200px; text-align: justify;} table, tr, td { border: none; font-size: 12pt;} .table td, .table th { font-size: 12px; } </style> 
 
 {% include base_path %}
 
