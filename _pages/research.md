@@ -11,7 +11,8 @@ redirect_from:
   
   body{ font-size: 12pt; width:1200px; text-align: justify;} 
   table, tr, td {
-    border: none;}
+    border: none;
+    font-size: 12pt;}
   .table td, .table th {
         font-size: 12px;
     }
