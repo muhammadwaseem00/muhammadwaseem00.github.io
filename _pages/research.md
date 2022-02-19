@@ -9,7 +9,7 @@ redirect_from:
 
 <style type="text/css"> 
   
-  body{ font-size: 12pt; width:1000px} 
+  body{ font-size: 12pt; width:1300px} 
   table, tr, td {
     border: none;}
   .table td, .table th {
