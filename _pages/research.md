@@ -21,7 +21,7 @@ Deep Learning
 <table border="0" cellpadding="0">
  <tr>
     <td style="width:250px; height:250px"> <img src="/images/dl.png" alt="Deep Learning" style="height: 250px; width:250px;"/> </td>
-    <td>Good information. I like reading your blog and always I get something new to learn. 
+    <td style="font-sieze:12pt">Good information. I like reading your blog and always I get something new to learn. 
       So, this blog was really helpful for me. I have also searched for a tool that converts 
       JPG images to SVG file format in a few seconds and I like the thing is its result and it
       does all of these conversions free of cost and gives you the best result without quality
