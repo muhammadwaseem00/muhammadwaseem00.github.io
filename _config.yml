@@ -5,6 +5,12 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
+<style>
+.ex1 {
+  margin-left: 10%;
+}
+</style>
+
 # Site Settings
 locale                   : "en-US"
 title                    : "Qaiser Abbas"
@@ -79,10 +85,11 @@ analytics:
 
 
 # Site Author
+<div class="ex1">
 author:
   name             : "Qaiser Abbas"
   avatar           : "dp2.png"
-  bio              : "Teaching Fellow @ CS Department UET Lahore | Applied A.I Researcher"
+  bio              : "Teaching Fellow @ UET Lahore | Applied A.I Researcher"
   location         : "Lahore, Pakistan"
   employer         :
   pubmed           : 
@@ -115,7 +122,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-
+</div>
 
 # Reading Files
 include:
