@@ -1,4 +1,10 @@
 # main links links
+<style>
+
+body { text-align: center;}
+
+</style>
+
 main:
     
   - title: "Publications"
@@ -13,8 +19,8 @@ main:
   - title: "Research"
     url: /research/ # change here
         
-  - title: "Blog"
-    url: /blog/
+#   - title: "Blog"
+#     url: /blog/
     
   - title: "CV"
     url: /cv/
