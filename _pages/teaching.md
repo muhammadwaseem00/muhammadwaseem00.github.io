@@ -31,7 +31,7 @@ Fall 2021
   unit, data storage, input/output devices, multimedia, operating systems, programming languages,
   networking, data structures and File Management. -->
 
-* CS-101 - Introduction to Computer Programming for Data Science (Theory+Lab)
+* CS-103 - Introduction to Computer Programming for Data Science (Theory+Lab)
 <!--   * This is a basic introduction to Python programming for Data Science. The course covers basics of
   python including data types, conditional statements, loops, data structures and exception handling. -->
 
