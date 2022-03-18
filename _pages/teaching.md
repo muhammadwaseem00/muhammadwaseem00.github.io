@@ -15,7 +15,8 @@ You can also find my official profile on my [UET Homepage](https://www.uet.edu.p
   
 Spring 2022
 ------
-* CSE-331L -  <font size="3">Computer Networks (Lab)</font> 
+* CS101 -  <font size="3">Computer Programming for Engineers (Lab)</font> 
+* CS103 -  Introduction to Computer Programming for Data Science (Theory+Lab)
 <!--   * This course introduces the fundamental problems of computer
     networking, from sending bits over wires to running distributed applications. -->
     
