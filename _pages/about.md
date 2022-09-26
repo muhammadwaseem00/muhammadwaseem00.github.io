@@ -10,23 +10,22 @@ redirect_from:
 
 <style type="text/css"> body{ font-size: 12pt; text-align:justify; } </style> 
 
-Hi! I'm Qaiser Abbas, a Teaching Fellow in the Department of Computer Science, University of Engineering and Technology Lahore. I'm an applied A.I researcher interested in basic research and real-world applications of deep learning and computer vision. Previously, I have worked at [Bioinformatics Research Lab](https://www.kics.edu.pk/labs/about/brl) and [Computer Vision and Machine Learning Research Lab](https://www.kics.edu.pk/labs/about/22) as Research Assistant in various Medical Image Computing and Image Recognition Projects.
+Hi! I'm Muhammad Waseem, a Lecturer in the Department of Computer Science, at Higher Education Department Punjab. I'm an applied biomedical image analysis researcher interested in basic and real-world applications of deep learning and medical image analysis. Previously, I have worked at [NADRA](https://www.nadra.gov.pk/) (CMM level 7 organization in the world) as System Engineer in various database, microservice applications projects.
 
-I am broadly interested in learning from limited data for visual recognition problems. My primary area of interests include transfer learning and self supervised learning with applications to medical image computing, computational plant pathology and industrial defects detection. I believe that artifical vision and learning from limited data can help us in improved object recognition, detection and segmentation to solve real-world problems. 
+I am interested in biomedical image analysis. My primary area of interests include medical deep learning and federated learning with applications to computer aided diagnosis and distributed deep learning. I am also intrestedin edge and cloud computing for medical applications.
 
 News!
 ======
-* Two papers are under review in WOS and SCOPUS indexed journals.
+* My recent SLR is under review in Q1 journal.
 
 
 For more info
 ------
-For more information or research collaboration you can contact me at:
-abbas.qaixer@gmail.com OR qaiser.cs@uet.edu.pk
+For more information or research collaboration you can contact me at: m.wasi@gmail.com
 
-<!-- <body>
+<body>
   <center>
-  <a href='https://clustrmaps.com/site/1bqj0'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=ffffff&w=590&t=tt&d=umW6HTj3nKxn1VBVj_CbN-6LLwIAJOY_MRZ_UQmcHYU&co=4183b2&ct=ffffff'/></a>
+  <a href='https://clustrmaps.com/site/1bqjg'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=ffffff&w=488&t=tt&d=0AJ75D06orCTaIpTJiAjAGfJVn-7pHjvXvzRQV8Q15M'/></a>
   </center>
   </body>
- -->
+
