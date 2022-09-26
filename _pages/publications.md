@@ -11,12 +11,12 @@ author_profile: true
 }
 </style>
 
-You can also find my articles on my [Google Scholar](https://scholar.google.com/citations?user=oAWfLsoAAAAJ&hl=en&oi=sra) profile.
+#You can also find my articles on my [Google Scholar](https://scholar.google.com/citations?user=oAWfLsoAAAAJ&hl=en&oi=sra) profile.
 
 2021
 ------
-* **Qaiser Abbas**, Farheen Ramzan, and Muhammad Usman Ghani. "Acral melanoma detection using dermoscopic images and convolutional neural networks." Visual computing for industry, biomedicine, and art 4.1 (2021): 1-12.     [Download PDF](https://link.springer.com/content/pdf/10.1186/s42492-021-00091-z.pdf)
+* **Muhammad Waseem**, Muhammad Awais Hassan, Syed Khaldoon Khurshid, Abdul Jalil, Muhammad Amir, and Riaz Ahmad Ziar. "An Analytical Study on Covid-19 Disease Analysis with Modern Machine Learning Methods." Submitted to 'Biomedical Research International'
 
-2020
+2021
 ------
-* **Qaiser Abbas** (2020), "Detection and Prediction of Acral Lentiginous Melanoma in Dermoscopic Images using Deep Learning." (Masters Thesis, University of Engineering and Technology, Lahore)  [ Download PDF](https://qaixerabbas.github.io/files/MS_Thesis.pdf)
+* **Muhammad Waseem** (2021), "Deep Learning Syntactic Enrichment and Affinity Resemblance for Biomedical Images to Access Publications" (Masters Thesis, Virtual University of Pakistan, Lahore)  [Download PDF](https://vspace.vu.edu.pk/detail.aspx?id=586)
