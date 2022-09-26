@@ -11,51 +11,44 @@ redirect_from:
 
 {% include base_path %}
 
-[Donwload PDF](https://qaixerabbas.github.io/files/updated_cv.pdf)
+<!-- [Donwload PDF](https://qaixerabbas.github.io/files/updated_cv.pdf) -->
 
 Education
 ------
+* Ph.D. in Artificial Intelligence (in progress)
+  * University of Engineering and Technology Lahore
 * M.S in Computer Sciece
-  * University of Engineering and Technology Lahore, 2020
-* B.S in Information Technology
+  * Virtual University of Pakistan Lahore, 2021
+* B.S in Computer Science
   * University of Sargodha, Sargodha, 2018
 
 Work experience
 ------
-* March 2021 - Present: **Teaching Fellow**
-  * University of Engineering and Technology Lahore
-  * Duties included: Teaching undergraduate courses in AI, ML and conduct labs.
+* May 2012 - Present: **Lecturer (CS)**
+  * Higher Education Department, Lahore
+  * Duties included: Teaching intermediate and undergraduate courses in AI, ML and conduct labs.
 
-* Jan 2020 - Oct 2020: **Research Assistant**
-  * BRL, KICS, UET Lahore
-  * Duties included: Research latest deep learning methods in medical image computing and computational plant pathology. 
+* Jan 2011 - May 2012: **System Engineer**
+  * National Database and Registration Authority, Pakistan
+  * Duties included: Network and database management and public dealing. 
 
-* Aug 2019 - Oct 2019: **Computer Vision Intern**
-  * Wizdojo Technologies, LUMS, Lahore
-  * Duties included: Research and develop deep learning pipelines for intelligent transportation systems.
+* Sep 2009 - Jan 2011: **Lecturer (Computer Science)**
+  * University of Sargodha, Sargodha
+  * Duties included: Teaching undergraduate courses in Computer Science.
 
-* Nov 2018 - April 2020: **Lecturer**
-  * Government Islamia College Railway Road, Lahore.
-  * Duties included: Teaching undergraduate courses in Programming, Networks and OS.
-  
-* Sep 2018 - Oct 2018: **Deep Learning Intern**
-  * CVML Lab, KICS, UET Lahore
-  * Duties included: Learned about deep learning and implemented deep learning methods for image classification.
 
 Skills
 ------
-* Programming (Python and C++)
+* Programming (Python, C++, PHP, Java, JavaScript, C#)
 * Deep Learning
-  * Medical Image Computing
-  * Computational Plant Pathology
+  * Biomedical Image Analysis
+  * Federated Learning
 * Deep Learning Frameworks (Keras, FastAI, TensorFlow, PyTorch, OpenCV)
 * Latex
 * Technical Writing
-* Web Engineering (Wordpress / HTML / CSS / Bootstrap)
-* OS (Windows, Ubuntu, Kali Linux)
+* Web Engineering (Wordpress / HTML / CSS / Bootstrap / PHP / JavaScript)
   
 Professional Services
 ------
 * Reviewer
-  * [Visual Computing for Industry, Biomedicine, and Art](https://vciba.springeropen.com/)
-  * [Informatics in Medicine Unlocked](https://www.journals.elsevier.com/informatics-in-medicine-unlocked)
+  * [IEEE Access](https://ieeeaccess.ieee.org/)
