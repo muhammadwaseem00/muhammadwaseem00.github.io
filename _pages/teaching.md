@@ -11,39 +11,52 @@ author_profile: true
 }
 </style>
 
-You can also find my official profile on my [UET Homepage](https://www.uet.edu.pk/faculties/facultiesinfo/facultyinfo?fac_id=1368).
-  
-Spring 2022
+Freelance Tutoring
 ------
-* CS101 -  <font size="3">Computer Programming for Engineers</font> 
-* CS103 -  Introduction to Computer Programming for Data Science
-<!--   * This course introduces the fundamental problems of computer
-    networking, from sending bits over wires to running distributed applications. -->
+* Machine Learning
+* Object Oriented Programming
+* C/C++, Python, Java
+
+University of Engineering and Technology Lahore
+------
+* Research Methodology
+* Introduction to Computer Programming for Data Science
+* Digial Logic Design
+* Object Oriented Programming (C#)
+* Database Systems
+* Management Information Systems
+  
+Higher Education Department Lahore
+------
+* Operating Systems
+* Programming Fundamentals
+* Databases
+* C/C++
+* Visual Basic
+* Data Communication
     
-Fall 2021
+University of Sargodha, Mianwali Campus
 ------
-* CS-361 - Artificial Intelligence
-<!--   * This is an introductory course in Artificial Intelligence. It includes introduction to A.I, 
-  Intelligent Agent, Searching, Game Playing and Basics of Machine learning. -->
-  
-* CS-141 - Introduction to Computing
-<!--   * This broad-based, entry-level course provides a general overview of the main concepts in
-  computing. Topics studied include the history and evolution of computers, central processing
-  unit, data storage, input/output devices, multimedia, operating systems, programming languages,
-  networking, data structures and File Management. -->
+* Operating Systems
+* Programming (PHP, C#, Python, C++, JavaScript, Java)
+* Object Oriented Programming
+* Databse Systems
+* Introduction to Computers
+* Artificial Intelligence
+* Discrete Mathematics
+* Data Structures and Algorithms
+* Final Year Projects Supervision
+* Analysis of Algorithms
 
-* CS-103 - Introduction to Computer Programming for Data Science
-<!--   * This is a basic introduction to Python programming for Data Science. The course covers basics of
-  python including data types, conditional statements, loops, data structures and exception handling. -->
-
-Spring 2021
+University of Sargodha, Sargodha
 ------
-* CS-362 - Introduction to Operating Systems
-<!--   * This is designed to be the first undergraduate level course with the main objective of teaching
-  students the concepts and principles that underlie the design and implementation of
-  operating system. -->
+* Operating Systems
+* Object Oriented Programming
+* Databse Systems
+* Introduction to Computers
+* Artificial Intelligence
+* Discrete Mathematics
+* Data Structures and Algorithms
+* Final Year Projects Supervision
 
-* CSE-331L - Computer Networks (Lab)
-<!--   * This course introduces the fundamental problems of computer
-  networking, from sending bits over wires to running distributed applications. -->
   
