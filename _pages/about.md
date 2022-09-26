@@ -24,8 +24,9 @@ For more info
 For more information or research collaboration you can contact me at:
 abbas.qaixer@gmail.com OR qaiser.cs@uet.edu.pk
 
-<body>
+<!-- <body>
   <center>
   <a href='https://clustrmaps.com/site/1bqj0'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=ffffff&w=590&t=tt&d=umW6HTj3nKxn1VBVj_CbN-6LLwIAJOY_MRZ_UQmcHYU&co=4183b2&ct=ffffff'/></a>
   </center>
   </body>
+ -->
