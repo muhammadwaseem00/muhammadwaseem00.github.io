@@ -10,8 +10,8 @@ author_profile: true
   font-size: 12pt;
 }
 </style>
-
-#You can also find my articles on my [Google Scholar](https://scholar.google.com/citations?user=oAWfLsoAAAAJ&hl=en&oi=sra) profile.
+<!-- 
+#You can also find my articles on my [Google Scholar](https://scholar.google.com/citations?user=oAWfLsoAAAAJ&hl=en&oi=sra) profile. -->
 
 2021
 ------
